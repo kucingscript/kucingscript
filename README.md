@@ -7,7 +7,6 @@
 - I'm **Front-End Developer** | **Learner**  
 - Currently Learning **JavaScript**, **Linux**  
 - Willing to contribute more and more in **Open Source Projects**
-
 <hr>
 
 ## 🔨 Languages and Tools  
@@ -22,11 +21,8 @@
 ![Made with love in Indonesia](https://madewithlove.now.sh/id?heart=true&colorB=%23ff3e3e)
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://github.com/rasyidzkun)
 
-
 <hr>
-
 <p align="center">
-<br/>
 <a href="https://www.facebook.com/RasyidzScreamo.221016">
   <img alt="rasyid's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
@@ -36,4 +32,3 @@
 </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rasyidzkun&show_icons=true&locale=en&layout=compact" alt="rasyidzkun" /></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rasyidzkun&" alt="rasyidzkun" /></p>
