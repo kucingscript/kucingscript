@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-- I'm **Front-End Developer** | **Learner**  
+- I'm **Learner** 
 - Currently Learning **JavaScript**, **Linux**  
 - Willing to contribute more and more in **Open Source Projects**
 <hr>
