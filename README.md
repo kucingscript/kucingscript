@@ -23,9 +23,6 @@
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)  
-![Made with love in Indonesia](https://madewithlove.now.sh/id?heart=true&colorB=%23ff3e3e)
-![saythanks](https://img.shields.io/badge/say-thanks-blueviolet)
-![rasyidzkun](https://img.shields.io/badge/-rasyidzkun-informational)
 
 <hr>
 <p align="center">
