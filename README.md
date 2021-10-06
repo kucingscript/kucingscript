@@ -5,7 +5,7 @@
 </h1>
 
 - I'm **Learner** 
-- Currently Learning **JavaScript**, **Linux**  
+- Currently Learning **JavaScript**  
 - Willing to contribute more and more in **Open Source Projects**
 <hr>
 
@@ -13,16 +13,14 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)  
 
 <hr>
 <p align="center">
