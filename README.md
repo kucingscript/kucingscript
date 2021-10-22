@@ -27,7 +27,7 @@
 <a href="https://www.facebook.com/RasyidzScreamo.221016">
   <img alt="rasyid's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
-<a href="https://www.instagram.com/rasyidz.ar/">
+<a href="https://www.instagram.com/kucingscript/">
   <img alt="rasyid's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
 </p>
