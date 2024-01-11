@@ -33,7 +33,7 @@
 	<a href="https://www.facebook.com/RasyidzScreamo.221016/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/kucingscript/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="mailto:rasyidzkun@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/ar-rasyid-sarifullah-71b1b11b1/"><img src="https://img.icons8.com/bubbles/50/linkedin.png" alt="Linkedin"/></a>
+	<a href="https://www.linkedin.com/in/kucingscript/"><img src="https://img.icons8.com/bubbles/50/linkedin.png" alt="Linkedin"/></a>
 </p>
 
 <p align="center">
