@@ -37,5 +37,5 @@
 </p>
 
 <p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kucingscript&langs_count=8&show_icons=true&locale=en&layout=compact&theme=dracula" alt="rasyidzkun" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kucingscript&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dracula" alt="rasyidzkun" />
 </p>
